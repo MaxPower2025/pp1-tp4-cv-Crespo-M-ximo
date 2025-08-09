@@ -6,6 +6,7 @@
 <h1> Cargo desempeñado: Ayudante de guardavidas: control y supervisión de grupos reducidos.
   Ayudante de Grupo de niños en colonia de vacaciones.
   Centro de formación: titulación: Bachiller con orientación en Ciencias Naturales.
-  Finalización de estudios primarios.
+  Finalización de estudios primarios. 
+  <css> 📗 </css> </h1>
 </head>
 </html>
